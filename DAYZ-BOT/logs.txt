@@ -1,0 +1,2 @@
+2025-03-03 13:38:22.034 +01:00 [WRN] [StandardConfiguration] - Creating new config file. Please configure the Config.json file, and restart the program.
+2025-03-03 14:09:54.407 +01:00 [WRN] [UpdateController] - Stoping bot: d653208c-fdea-4a80-a9ad-3de97a755ad8
